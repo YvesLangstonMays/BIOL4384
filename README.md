@@ -1,2 +1,1 @@
-# DevelopmentalBiology
-# BIOL4384
+# Developmental Biology Project
