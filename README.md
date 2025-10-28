@@ -30,7 +30,7 @@
 4. Describe function in eye
 
 - Include evidence from selected paper
-- Gte supporing figures
+- Get supporing figures
 
 5. Propose experiemnet to further understanding
 
