@@ -1,6 +1,8 @@
-##Gene
+## Gene
 
 - Notch
+
+![Notch](Images/Screenshot%202025-10-28%20at%203.54.23 PM.png)
 
 ## Organ System
 
