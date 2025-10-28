@@ -13,8 +13,8 @@
 
 1.  General Info
 
-- D. melanogaster Notch gene, Eye organ system
-- Use FlyBase to gather gene function summarry, expression, and phenotypes
+- zebrafish Notch gene, Eye organ system
+- Use zfin to gather gene function summarry, expression, and phenotypes
 
 2.  Background Info
 
