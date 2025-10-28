@@ -6,7 +6,8 @@
 
 ## Organ System
 
-- Eye (Drosophila melanogaster)
+- Eye (Zebrafish)
+  ![Zebrafish Eye](Images/ZebraFishEye.png)
 
 # Outline
 
@@ -17,7 +18,7 @@
 
 2.  Background Info
 
-- Notch gene description, sequence, known alleless. Find out expression in Dm eye
+- Notch gene description, sequence, known alleless. Find out expression in zebrafish eye
 - Get relevant/interesting annotations
 - Developmental stages of activity in eye
 
