@@ -68,7 +68,7 @@ Long,
 ## Xenbase
 
 - Gene Expression search allows you to search for expression data for a gene
-- **_ RNA-Seq stages and tissues allow you to see RNA-Seq data from various Xenopus papers _**
+- <ins> **_ RNA-Seq stages and tissues allow you to see RNA-Seq data from various Xenopus papers _** </ins>
 - **_ Anatomy Search allows you to search, via a tree format, different anatomical structure sand their porigins _**
 - Cell Fate Maps shows face maps in forward and reverse at various stages
 - **_ Disease models allows you to search for various disease states, experiments involving them, and other information _**
