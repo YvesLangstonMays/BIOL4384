@@ -46,3 +46,11 @@
    - compare wild type to the mutants..
    - find a way to measure the changes in expression
    - PCA + heatmaps?
+
+### Misc
+
+Nov 4 Group
+
+- Bianca
+- Ferusa[?]
+- Long
