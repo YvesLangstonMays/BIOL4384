@@ -47,13 +47,15 @@
    - find a way to measure the changes in expression
    - PCA + heatmaps?
 
-# In Class Group Nov 4 2025
+# Resources To Use
 
 _Nov 4 Group Members_
 
+<inline>
 - Bianca
 - Firuza
 - Long
+</inline>
 
 ## Zfin
 
