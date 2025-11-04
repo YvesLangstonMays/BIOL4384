@@ -53,9 +53,9 @@ _Nov 4 Group Members_
 
 <ul>
 <inline>
-- Bianca,
-- Firuza,
-- Long,
+Bianca,
+Firuza,
+Long,
 </inline>
 </ul>
 
