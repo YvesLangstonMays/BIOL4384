@@ -60,18 +60,18 @@ Long,
 ## Zfin
 
 - Genes alllows you to search for a gene
-- **_ expression allows you to search for the expression of genes at various stages and physiological locations _**
+- <ins>expression allows you to search for the expression of genes at various stages and physiological locations </ins>
 - Antibodies allow you to look for antibodies such as the rabbit polyclonal anti-Jag1b that cites Yamamoto et al., 2010
-- **_ AllianceMine allows you to go through input lists of genes and search annotations across species. This would be useful for comparing gene associated with a specific disease term in dfferent species. _**
+- <ins> AllianceMine allows you to go through input lists of genes and search annotations across species. This would be useful for comparing gene associated with a specific disease term in dfferent species. </ins>
 - News shows the latest news about zfin. They recently updated the site to use NCBI data for the reference genome, GRCz12tu. This is a 1.4Gb genome with 37% GC content. I forgot what BUSCO scores are, but it's 97.7% single copy.
 
 ## Xenbase
 
 - Gene Expression search allows you to search for expression data for a gene
-- <ins> **_ RNA-Seq stages and tissues allow you to see RNA-Seq data from various Xenopus papers _** </ins>
-- **_ Anatomy Search allows you to search, via a tree format, different anatomical structure sand their porigins _**
+- <ins>RNA-Seq stages and tissues allow you to see RNA-Seq data from various Xenopus papers </ins>
+- <ins>Anatomy Search allows you to search, via a tree format, different anatomical structure sand their porigins </ins>
 - Cell Fate Maps shows face maps in forward and reverse at various stages
-- **_ Disease models allows you to search for various disease states, experiments involving them, and other information _**
+- <ins> Disease models allows you to search for various disease states, experiments involving them, and other information </ins>
 
 ## Wormbase
 
