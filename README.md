@@ -47,10 +47,34 @@
    - find a way to measure the changes in expression
    - PCA + heatmaps?
 
-### Misc
+# Part 1 In Class Group
 
-Nov 4 Group
+_Nov 4 Group_
 
 - Bianca
-- Ferusa[?]
+- Firuza
 - Long
+
+Zfin
+
+- Genes alllows you to search for a gene
+- expression allows you to search for the expression of genes at various stages and physiological locations
+- Antibodies allow you to look for antibodies such as the rabbit polyclonal anti-Jag1b that cites Yamamoto et al., 2010
+- AllianceMine allows you to go through input lists of genes and search annotations across species. This would be useful for comparing gene associated with a specific disease term in dfferent species.
+- News shows the latest news about zfin. They recently updated the site to use NCBI data for the reference genome, GRCz12tu. This is a 1.4Gb genome with 37% GC content. I forgot what BUSCO scores are, but it's 97.7% single copy.
+
+Xenbase
+
+- Gene Expression search allows you to search for expression data for a gene
+- RNA-Seq stages and tissues allow you to see RNA-Seq data from various Xenopus papers
+- Anatomy Search allows you to search, via a tree format, different anatomical structure sand their porigins
+- Cell Fate Maps shows face maps in forward and reverse at various stages
+- Disease models allows you to search for various disease states, experiments involving them, and other information
+
+Wormbase
+
+- Directory let's you browse worm information by species and database/resource
+- Tools provides tools like BLAST, genetic maps, aligners, etc.
+- Downloads allows you to download data directly
+- Community gives you access to the forums, other websites, and a colleague database
+- Citing WormBase provides resoruces to cite anything on wormbase
