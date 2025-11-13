@@ -80,3 +80,34 @@ Long,
 - Downloads allows you to download data directly
 - Community gives you access to the forums, other websites, and a colleague database
 - Citing WormBase provides resoruces to cite anything on wormbase
+
+# MDGP Worksheet 2
+
+Notch functions as a receptor for membrane bound ligands Delta and Serrate to regulate cell fate determination.
+Along with the aforementioned, Notch also interacts with various E3 ubiquitin ligases as it is targeted for sequestration and lysosomal degradation during regulatory processes of the Notch signalling pathway. In the processes of chromatin binding (Tsuda 2006), histone acetlytransferase binding (Sing 2019), transcription coactivator acitivity (Kitagawa 2001), transmembrane signaling receptor activity (Ahimou 2004), and WW domain binding (Jennings 2007), Notch is implicated.
+
+In zebrafish, there are various notch genes involved at various stages of development, including the following:
+
+notch1a - 90% epiboly to Adult
+notch1b - 50% epiboly to Adult
+notch2 - 50% epiboly to Adult
+notch3 - Bud to Adult
+
+### notch1a
+
+notch1a is a Notch receptor gene that is predicted to anble notch binding activity and is involved in the Notch signaling pathway as well as hematopoietic stem cell differentiation. It is expressed in several structures including the digestive system, the fin, the mesoderm, the nervous system, and the tail bud. **Human Ortholog implicated in Adams-Oliver syndrome, adult T cell lymphoma, aortic valve disease 1, and congenital heart disease**
+
+### notch1b
+
+notch1b is predicted to enable calcium ion binding activity and signaling receptor activity. It, like notch1a, is involved in the Notch signaling pathway and hematopoietic stem cell differentiation. It is also expressed in several structures including the cardiovascular system, the digestive system, hematopoietic multipotent progenitor cells, the nervous system, ad the trunk. **implicated in sae diseases as notch1a**
+
+### notch2
+
+# References
+
+Update the references below
+Tsuda et al., 2006
+Singh et al., 2019
+Kitagawa et al., 2001
+Ahimou et al., 2004
+Jennings et al., 2007
