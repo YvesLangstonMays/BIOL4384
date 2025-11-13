@@ -103,6 +103,12 @@ notch1b is predicted to enable calcium ion binding activity and signaling recept
 
 ### notch2
 
+notch2 enables Notch binding activity. It is expressed in the digestive system, mesoderm, nervous system, pectoral fin, and splanchnocranium, which is an anatomical cluster that ist he regional skeletal system of the jaws, hyoid, and branchial arches. **implicated in Alagille syndrome and Hajdu-Cheyney syndrome**
+
+## notch3
+
+notch3 enables Notch binding activity. Expressed in the digestive system, mesoderm, nervous system, pleuroperitoneal region, and vasculature. **Human ortholog implicated in CADASIL 1, infantile myofibromatosis, and lateral meningocele syndrome**
+
 # References
 
 Update the references below
