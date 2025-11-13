@@ -109,6 +109,8 @@ notch2 enables Notch binding activity. It is expressed in the digestive system, 
 
 notch3 enables Notch binding activity. Expressed in the digestive system, mesoderm, nervous system, pleuroperitoneal region, and vasculature. **Human ortholog implicated in CADASIL 1, infantile myofibromatosis, and lateral meningocele syndrome**
 
+## Struhl - Nuclear Access and Action of Notch In Vivo
+
 # References
 
 Update the references below
