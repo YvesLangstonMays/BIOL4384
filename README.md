@@ -88,10 +88,10 @@ Along with the aforementioned, Notch also interacts with various E3 ubiquitin li
 
 In zebrafish, there are various notch genes involved at various stages of development, including the following:
 
-notch1a - 90% epiboly to Adult
-notch1b - 50% epiboly to Adult
-notch2 - 50% epiboly to Adult
-notch3 - Bud to Adult
+- notch1a : 90% epiboly to Adult
+- notch1b : 50% epiboly to Adult
+- notch2 : 50% epiboly to Adult
+- notch3 : Bud to Adult
 
 ### notch1a
 
