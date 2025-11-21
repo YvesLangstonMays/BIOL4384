@@ -111,6 +111,16 @@ notch3 enables Notch binding activity. Expressed in the digestive system, mesode
 
 ## Struhl - Nuclear Access and Action of Notch In Vivo
 
+# MDGP Worksheet 3
+
+Queried NCBI database using the phraes "notch zebrafish eye".
+
+First interesting paper is title "Notch Inhibition Promotes Regeneration and Immunosuppression Supports Cone Survival in a Zebrafish Model of Inherited Retinal Dystrophy"
+
+Queried NCBI again using "notch zebrafish eye development". First interesting paper is titled "Sox11b regulates the migration and fate determination of Müller glia-derived progenitors during retina regeneration in zebrafish"
+
+Will be using the first paper. DOI:10.4103/1673-5374.346550
+
 # References
 
 Update the references below
